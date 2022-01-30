@@ -1,7 +1,7 @@
 spring:
   application:
     name: greeting-service
-managment:
+management:
   endpoints:
     web:
       exposure:
